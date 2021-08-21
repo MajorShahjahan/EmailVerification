@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EmailVerification</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">qYK4CDHN8m4o9pt78JrJCeOlq7JDBaadbykWX5OJ</string>
+    <string name="back4app_client_key">NvHjHkE49Ie82VuQk9RATO4ui1Z3vvfuaGM1r9sP</string>
+</resources>
